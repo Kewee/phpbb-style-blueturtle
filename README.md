@@ -4,7 +4,7 @@ A blue and aqua style for **phpBB 3.3**, inspired by Sting’s *The Dream of the
 
 Translucent panels reveal an underwater background, while custom turtle icons complete the theme.
 
-![Blue Turtle preview](preview.png)
+![Blue Turtle preview](preview.jpg)
 
 ## Features
 
